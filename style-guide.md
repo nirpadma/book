@@ -23,7 +23,7 @@
 
 ## Links
 
-Once all the scripts are done:
+Once all the scripts are done,
 
 * If a link shouldn't be printed, mark it to be ignored
   * This includes all "Chapter XX" intra-book links, which *should* be links
